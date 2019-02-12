@@ -36,7 +36,7 @@ class Z (Tetromino):
         board[bottom][center + 1] = bot_right
 
     def can_rotate_left(self, board):
-
+        return
 
     def rotate_left(self, board):
         return
