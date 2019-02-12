@@ -1,1 +1,3 @@
-tetrys
+# tetrys
+
+Requires pygame
